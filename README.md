@@ -1,2 +1,3 @@
 # MySelf
-This is about me.
+This is about me!
+I am a student of BUBT!
